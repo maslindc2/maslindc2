@@ -7,7 +7,7 @@ Software
 I am currently a computer science graduate from Central Washington University. I am an aspiring software engineer that's eager to learn and bring people's ideas to life. I enjoy learning and experimenting with new technologies. I am proficient in Python, Java, Javascript, React, C++, HTML, Unix, and MySQL.
 
 * 🌍  I'm based in Bellevue
-* ✉️  You can contact me at [https://www.linkedin.com/in/maslin-farrell/](mailto:https://www.linkedin.com/in/maslin-farrell/)
+* ✉️  You can contact me at [https://www.linkedin.com/in/maslin-farrell/](https://www.linkedin.com/in/maslin-farrell/)
 * 🚀  I'm currently working on [Wallpaper Builder](http://github.com/maslindc2/Wallpaper-Builder-Python)
 * 🧠  I'm learning Machine Learning and PyScript
 * 🤝  I'm open to collaborating on E-Commerce projects, machine learning projects, and anything linux
