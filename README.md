@@ -1,4 +1,4 @@
-Hi 👋 My name is Maslin Farrell
+Hello 👋 My name is Maslin Farrell
 ===============================
 
 Software
