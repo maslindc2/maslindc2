@@ -4,7 +4,7 @@ Hello 👋 My name is Maslin Farrell
 Software
 --------
 
-I am a computer science graduate from Central Washington University. I am an aspiring software engineer that's eager to learn and bring people's ideas to life. I enjoy learning and experimenting with new technologies. I am proficient in Python, Java, Javascript, React, C++, HTML, Unix, and MySQL.
+As an aspiring software engineer, I am passionate about learning and bringing ideas to life through technology. Proficient in a range of programming languages and technologies, including Python, Java, Javascript, React, C++, HTML, Unix, and MySQL, I am eager to continue growing my skills and contributing to exciting projects. Whether working in a team or independently, I am committed to delivering high-quality, innovative solutions to complex problems.
 
 * 🌍  I'm based in Bellevue
 * ✉️  You can contact me at [https://www.linkedin.com/in/maslin-farrell/](https://www.linkedin.com/in/maslin-farrell/)
