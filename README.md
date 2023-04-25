@@ -10,4 +10,4 @@
 </p>
 
 <h3 align="center">Stats</h3>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=maslindc2&show_icons=true&theme=rose_pine&count_private=true"> </p>
+<p align="center"> <img src="https://github-readme-stats-maslindc2.vercel.app/api?username=maslindc2&show_icons=true&theme=rose_pine&count_private=true"> </p>
