@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Maslin&fontSize=60"> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Maslin%20Farrell&reversal=true&textBg=false&fontSize=60"> </p>
 <h3 align="center"><i>Always learning, always coding, always building</i></h3>
 <hr>
 <h3 align="center">About Me</h3>
